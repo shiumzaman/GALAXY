@@ -1,2 +1,2 @@
 # GALAXY
-HoWo
+https://shiumzaman.github.io/GALAXY/
